@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
+html {
+  font-family: 'Jolly Lodger', cursive;
+}
+
+
+.myBadgexx {
+    background-color: green;
+}
+
+img {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.prodWrapper {
+    padding: 5%;
+    text-align: 'center';
+  }
+
+ html {
+     height: 100%;
+      text-align: center;
+      background-image: url('https://wallpaperaccess.com/full/867429.jpg');
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      font-weight: bold;
+ }
+
+
+
+ .App {
+     width: 80%;
+     background-color: rgba(240, 248, 255, 0.411);
+     margin-left: 10%;
+     margin-bottom: 10%;
+     padding: 3% 0;
+ }
+
+.header, h1 {
+    font-family: 'Jolly Lodger';
+    font-size: 3rem;
+    text-shadow: 
+    2px 2px 0 #000,
+    -2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px -2px 0 #000,
+    0px 2px 0 #000,
+    2px 0px 0 #000,
+    0px -2px 0 #000,
+    -2px 0px 0 #000,
+    2px 2px 10px #000;
+    // background: linear-gradient(45deg, rgba(193, 228, 255, 0.61) 30%, rgb(247, 195, 167) 90%); 
+    text-decoration: none;
+}
+
+// footer {
+//   .element {
+//     background: linear-gradient(
+//       to top,
+//      url("https://media.tenor.com/images/27c59aeed4e51dd27bb59807f19e564c/tenor.gif"),
+//       rgba(255, 0, 0, 0)
+//     )
+//   }
+// }
